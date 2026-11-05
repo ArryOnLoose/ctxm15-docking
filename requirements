@@ -1,0 +1,15 @@
+# Python packages
+rdkit
+pandas
+numpy
+pubchempy
+openmm
+plip
+py3Dmol
+# PDBFixer is installed from GitHub:
+# pip install git+https://github.com/openmm/pdbfixer.git
+
+# Programs installed separately (not from pip):
+# - AutoDock Vina 1.2.5 command-line binary
+#     https://github.com/ccsb-scripps/AutoDock-Vina/releases/tag/v1.2.5
+# - Open Babel (provides the obabel command), for example: apt-get install openbabel
